@@ -3,6 +3,7 @@
 ## Docs
 
 - [C++ Core Guidelines](https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md)
+- [C++ Super-FAQ](https://isocpp.org/faq)
 - [Modern C++ for C programmers](https://ds9a.nl/articles/posts/c++-1/)
 - [Google C++ Style Guide](https://google.github.io/styleguide/cppguide.html)
 - [C++ Best Practices](https://lefticus.gitbooks.io/cpp-best-practices/content/)
