@@ -4,8 +4,11 @@
 
 - [C++ Core Guidelines](https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md)
 - [C++ Super-FAQ](https://isocpp.org/faq)
-- [Modern C++ for C programmers](https://ds9a.nl/articles/posts/c++-1/)
+- [C++ Tips of the Week](https://abseil.io/tips/)
+- [C++ Frequently Questioned Answers](http://yosefk.com/c++fqa/)
+- [Guru of the Week](https://herbsutter.com/gotw/)
 - [Google C++ Style Guide](https://google.github.io/styleguide/cppguide.html)
+- [Modern C++ for C programmers](https://ds9a.nl/articles/posts/c++-1/)
 - [C++ Best Practices](https://lefticus.gitbooks.io/cpp-best-practices/content/)
 - [How to quickly profile an app with a debugger](https://stackoverflow.com/a/378024)
 - [Pointers, References and Values](http://soggywizards.com/tips/code/c++/memory-management/parameters/)
