@@ -15,9 +15,11 @@
 - [Managing C++ Objects](http://www.billharlan.com/pub/papers/Managing_Cpp_Objects.html)
 - [A collection of resources on modern C++](https://github.com/rigtorp/awesome-modern-cpp)
 - [C++ Performance Analysis & Profiling Tools](https://kusemanohar.wordpress.com/2012/08/13/c-performance-analysis-profiling-tools/)
+- [Cache performance measurement and metric](https://en.wikipedia.org/wiki/Cache_performance_measurement_and_metric)
 
 ## Tools
 
 - [rr](https://rr-project.org/)
 - [Kythe](http://kythe.io/)
 - [AddressSanitizer, ThreadSanitizer, MemorySanitizer](https://github.com/google/sanitizers)
+- [Cachegrind: a cache-miss profiler](http://wwwcdf.pd.infn.it/valgrind/cg_main.html)
