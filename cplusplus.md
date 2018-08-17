@@ -23,3 +23,7 @@
 - [Kythe](http://kythe.io/)
 - [AddressSanitizer, ThreadSanitizer, MemorySanitizer](https://github.com/google/sanitizers)
 - [Cachegrind: a cache-miss profiler](http://wwwcdf.pd.infn.it/valgrind/cg_main.html)
+
+## FAQ
+- [The Big Three](https://stackoverflow.com/questions/4172722/what-is-the-rule-of-three)
+- [Copy and swap idiom](https://stackoverflow.com/questions/3279543/what-is-the-copy-and-swap-idiom?rq=1)
