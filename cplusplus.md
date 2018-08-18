@@ -16,7 +16,7 @@
 - [A collection of resources on modern C++](https://github.com/rigtorp/awesome-modern-cpp)
 - [C++ Performance Analysis & Profiling Tools](https://kusemanohar.wordpress.com/2012/08/13/c-performance-analysis-profiling-tools/)
 - [Cache performance measurement and metric](https://en.wikipedia.org/wiki/Cache_performance_measurement_and_metric)
-- [Optimizing software in C++])https://www.agner.org/optimize/optimizing_cpp.pdf)
+- [Optimizing software in C++](https://www.agner.org/optimize/optimizing_cpp.pdf)
 
 ## Tools
 
