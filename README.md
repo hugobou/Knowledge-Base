@@ -6,3 +6,4 @@
 - [Java resources](java.md)
 - [Textbooks repositories](textbooks.md)
 - [Miscellaneous](misc.md)
+- [Tools](tools.md)
