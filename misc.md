@@ -6,3 +6,6 @@
 ## Papers
 
 - [Papers we love](https://github.com/papers-we-love/papers-we-love)
+
+## Tips and tricks
+- [ZSH tips and tricks](http://reasoniamhere.com/2014/01/11/outrageously-useful-tips-to-master-your-z-shell/)
