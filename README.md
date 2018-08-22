@@ -1,4 +1,4 @@
-# Knowledge-Base
+# Knowledge Base
 
 - [Fundamentals](fundamentals.md)
 - [Architecture and design](design.md)
