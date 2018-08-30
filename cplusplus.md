@@ -17,6 +17,7 @@
 - [C++ Performance Analysis & Profiling Tools](https://kusemanohar.wordpress.com/2012/08/13/c-performance-analysis-profiling-tools/)
 - [Cache performance measurement and metric](https://en.wikipedia.org/wiki/Cache_performance_measurement_and_metric)
 - [Optimizing software in C++](https://www.agner.org/optimize/optimizing_cpp.pdf)
+- [The Definitive C++ Book Guide and List](https://stackoverflow.com/questions/388242/the-definitive-c-book-guide-and-list/)
 
 ## Tools
 
