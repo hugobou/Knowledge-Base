@@ -5,3 +5,4 @@
 - [Enterprise Integration Patterns](https://www.enterpriseintegrationpatterns.com/index.html)
 - [Refactoring](https://refactoring.com/catalog)
 - [Martin Fowler](https://martinfowler.com)
+- [Notes on "A Philosophy of Software Design"](https://lethain.com//notes-philosophy-software-design/)
