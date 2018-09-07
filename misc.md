@@ -15,5 +15,8 @@
 - [Axibase Documentation Guide](https://axibase.com/use-cases/tutorials/workshop/technical-writing.html)
 - [Axibase Documentation Linter](https://github.com/axibase/docs-util)
 
+## Probability and Statistics
+- [Statistical Engineering](https://statistical-engineering.com/)
+
 ## Tips and tricks
 - [ZSH tips and tricks](http://reasoniamhere.com/2014/01/11/outrageously-useful-tips-to-master-your-z-shell/)
