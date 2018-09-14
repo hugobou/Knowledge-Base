@@ -9,3 +9,7 @@
 ## Software Engineering
 
 - [Software Engineering Body of Knowledge](http://www4.ncsu.edu/~tjmenzie/cs510/pdf/SWEBOKv3.pdf)
+
+## Code Quality
+
+- [23 guidelines for writing readable code](https://alemil.com/guidelines-for-writing-readable-code)
