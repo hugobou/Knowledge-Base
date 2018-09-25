@@ -8,7 +8,7 @@
 - [Papers we love](https://github.com/papers-we-love/papers-we-love)
 
 ## Machine Learning
-- [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning/blob/master/)
+- [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
 
 ## Writing Documentation
 - [Google Developer Documentation Style Guide](https://developers.google.com/style/)
