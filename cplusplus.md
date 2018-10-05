@@ -10,7 +10,6 @@
 - [Google C++ Style Guide](https://google.github.io/styleguide/cppguide.html)
 - [Modern C++ for C programmers](https://ds9a.nl/articles/posts/c++-1/)
 - [C++ Best Practices](https://lefticus.gitbooks.io/cpp-best-practices/content/)
-- [How to quickly profile an app with a debugger](https://stackoverflow.com/a/378024)
 - [Pointers, References and Values](http://soggywizards.com/tips/code/c++/memory-management/parameters/)
 - [Managing C++ Objects](http://www.billharlan.com/pub/papers/Managing_Cpp_Objects.html)
 - [A collection of resources on modern C++](https://github.com/rigtorp/awesome-modern-cpp)
@@ -18,6 +17,11 @@
 - [Cache performance measurement and metric](https://en.wikipedia.org/wiki/Cache_performance_measurement_and_metric)
 - [Optimizing software in C++](https://www.agner.org/optimize/optimizing_cpp.pdf)
 - [The Definitive C++ Book Guide and List](https://stackoverflow.com/questions/388242/the-definitive-c-book-guide-and-list/)
+
+## Howto
+
+- [How to quickly profile an app with a debugger](https://stackoverflow.com/a/378024)
+- [How to find a memory leak in a running process](https://unix.stackexchange.com/a/399115)
 
 ## Tools
 
