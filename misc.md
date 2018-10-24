@@ -6,6 +6,7 @@
 ## Papers
 
 - [Papers we love](https://github.com/papers-we-love/papers-we-love)
+- [Fermat's Library](https://fermatslibrary.com/journal_club)
 
 ## Machine Learning
 - [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
