@@ -27,5 +27,3 @@
 ## Tech Talks
 - [Collection of algorithmically-ranked tech talks](https://techyaks.com/)
 
-## Tips and tricks
-- [ZSH tips and tricks](http://reasoniamhere.com/2014/01/11/outrageously-useful-tips-to-master-your-z-shell/)
