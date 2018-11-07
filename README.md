@@ -2,6 +2,7 @@
 
 - [Fundamentals](fundamentals.md)
 - [Architecture and design](design.md)
+- [Programming languages](languages.md)
 - [C++](cplusplus.md)
 - [Java](java.md)
 - [Textbooks](textbooks.md)
