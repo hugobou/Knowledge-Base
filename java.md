@@ -7,3 +7,4 @@
 ## Tutorials
 - [Vogella tutorials](http://www.vogella.com/tutorials/java.html)
 - [Mkyong.com tutorials](https://www.mkyong.com/tutorials/java-8-tutorials/)
+- [Javaworld's Java Tips](https://www.javaworld.com/blog/java-tips/)
