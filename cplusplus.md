@@ -23,6 +23,7 @@
 - [How to quickly profile an app with a debugger](https://stackoverflow.com/a/378024)
 - [How to find a memory leak in a running process](https://unix.stackexchange.com/a/399115)
 
+
 ## Tools
 
 - [rr](https://rr-project.org/)
@@ -33,3 +34,4 @@
 ## FAQ
 - [The Big Three](https://stackoverflow.com/questions/4172722/what-is-the-rule-of-three)
 - [Copy and swap idiom](https://stackoverflow.com/questions/3279543/what-is-the-copy-and-swap-idiom?rq=1)
+- [Where and why do I have to put the “template” and “typename” keywords?](https://stackoverflow.com/q/610245)
