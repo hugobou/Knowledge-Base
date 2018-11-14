@@ -8,3 +8,4 @@
 - [XML/JSON tools (freeformatter)](https://www.freeformatter.com/xml-formatter.html)
 - [XML/JSON tools (webtoolkitonline)](http://www.webtoolkitonline.com/xml-formatter.html)
 - [XML to XSD](http://xmlgrid.net/xml2xsd.html)
+- [Draw diagrams and flowcharts](http://draw.io)
