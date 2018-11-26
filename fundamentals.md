@@ -17,3 +17,9 @@
 ## Code Quality
 
 - [23 guidelines for writing readable code](https://alemil.com/guidelines-for-writing-readable-code)
+
+## Design principles
+
+- [SOLID principles](https://en.wikipedia.org/wiki/SOLID)
+- [Liskov substitution principle](https://hackernoon.com/liskov-substitution-principle-a982551d584a)
+- [Loose coupling](https://en.wikipedia.org/wiki/Loose_coupling)
