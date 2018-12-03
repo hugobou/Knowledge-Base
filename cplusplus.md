@@ -35,3 +35,4 @@
 - [The Big Three](https://stackoverflow.com/questions/4172722/what-is-the-rule-of-three)
 - [Copy and swap idiom](https://stackoverflow.com/questions/3279543/what-is-the-copy-and-swap-idiom?rq=1)
 - [Where and why do I have to put the “template” and “typename” keywords?](https://stackoverflow.com/q/610245)
+- [The rule of 5/3/0](https://en.cppreference.com/w/cpp/language/rule_of_three)
