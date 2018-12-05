@@ -7,9 +7,11 @@
 
 - [Papers we love](https://github.com/papers-we-love/papers-we-love)
 - [Fermat's Library](https://fermatslibrary.com/journal_club)
+- [Arxiv-Sanity](http://www.arxiv-sanity.com)
 
 ## Machine Learning
 - [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
+- [Long term data science learning roadmap](https://towardsdatascience.com/a-long-term-data-science-roadmap-which-wont-help-you-become-an-expert-in-only-several-months-4436733e63ff)
 
 ## Documentation Practices
 - [Google Developer Documentation Style Guide](https://developers.google.com/style/)
