@@ -5,6 +5,9 @@
 - [Linux kernel coding style](https://www.kernel.org/doc/html/v4.10/process/coding-style.html)
 - [Google Developer Documentation Style Guide](https://developers.google.com/style/)
 - [Style guides for Google-originated open-source projects](https://github.com/google/styleguide)
+- [Mozilla Coding Style](https://developer.mozilla.org/en-US/docs/Mozilla/Developer_guide/Coding_Style)
+- [Python Code Style](https://docs.python-guide.org/writing/style/)
+- [Java Coding Style](https://www.oracle.com/technetwork/java/codeconvtoc-136057.html)
 
 ## Coding Practices
 - [Sean Parent - Better Code](http://sean-parent.stlab.cc/papers-and-presentations/)
