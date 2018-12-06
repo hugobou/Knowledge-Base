@@ -1,5 +1,11 @@
 # Miscellaneous resources
 
+## Coding Standards and Coding Style Documents
+
+- [Linux kernel coding style](https://www.kernel.org/doc/html/v4.10/process/coding-style.html)
+- [Google Developer Documentation Style Guide](https://developers.google.com/style/)
+- [Style guides for Google-originated open-source projects](https://github.com/google/styleguide)
+
 ## Coding Practices
 - [Sean Parent - Better Code](http://sean-parent.stlab.cc/papers-and-presentations/)
 
