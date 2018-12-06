@@ -3,7 +3,6 @@
 ## Coding Standards and Coding Style Documents
 
 - [Linux kernel coding style](https://www.kernel.org/doc/html/v4.10/process/coding-style.html)
-- [Google Developer Documentation Style Guide](https://developers.google.com/style/)
 - [Style guides for Google-originated open-source projects](https://github.com/google/styleguide)
 - [Mozilla Coding Style](https://developer.mozilla.org/en-US/docs/Mozilla/Developer_guide/Coding_Style)
 - [Python Code Style](https://docs.python-guide.org/writing/style/)
