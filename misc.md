@@ -15,7 +15,7 @@
 
 ## Documentation Practices
 - [Google Developer Documentation Style Guide](https://developers.google.com/style/)
-- [Axibase Documentation Guide](https://axibase.com/use-cases/tutorials/workshop/technical-writing.html)
+- [Axibase Documentation Guide](https://axibase.com/use-cases/workshop/technical-writing.html)
 - [Axibase Documentation Linter](https://github.com/axibase/docs-util)
 - [What nobody tells you about documentation](https://www.divio.com/blog/documentation/)
 - [How we wrote a textbook](http://tim.hibal.org/blog/how-we-wrote-a-textbook/)
