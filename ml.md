@@ -58,7 +58,7 @@ ESL Section 9.2.3, page 328
 
 ### K-Means
 
-### Neural Networks regresion
+### Neural Networks
 
 ### Self Organized Maps
 
