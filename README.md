@@ -9,4 +9,5 @@
 - [Parallel processing](parallelprocessing.md)
 - [Textbooks](textbooks.md)
 - [Miscellaneous](misc.md)
+- [Machine learning](ml.md)
 - [Tools](tools.md)
