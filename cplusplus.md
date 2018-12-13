@@ -17,6 +17,7 @@
 - [Cache performance measurement and metric](https://en.wikipedia.org/wiki/Cache_performance_measurement_and_metric)
 - [Optimizing software in C++](https://www.agner.org/optimize/optimizing_cpp.pdf)
 - [The Definitive C++ Book Guide and List](https://stackoverflow.com/questions/388242/the-definitive-c-book-guide-and-list/)
+- [Technical Report on C++ Performance (2006)](http://www.open-std.org/jtc1/sc22/wg21/docs/18015.html)
 
 ## Howto
 
