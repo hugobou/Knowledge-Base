@@ -6,3 +6,4 @@
 - [Refactoring](https://refactoring.com/catalog)
 - [Martin Fowler](https://martinfowler.com)
 - [Notes on "A Philosophy of Software Design"](https://lethain.com//notes-philosophy-software-design/)
+- [The art of Unix programming](http://www.catb.org/esr/writings/taoup/html/index.html)
