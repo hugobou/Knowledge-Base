@@ -2,6 +2,7 @@
 
 ## Docs
 
+- [C++ Standards Committee](http://www.open-std.org/jtc1/sc22/wg21/)
 - [C++ Core Guidelines](https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md)
 - [C++ Super-FAQ](https://isocpp.org/faq)
 - [C++ Tips of the Week](https://abseil.io/tips/)
