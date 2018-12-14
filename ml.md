@@ -1,4 +1,4 @@
-# Algoritmos
+# Algorithms
 
 ### Candidate Elimination
 
