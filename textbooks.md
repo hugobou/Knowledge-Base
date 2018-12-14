@@ -8,22 +8,22 @@
 
 ### Textbook Repositories
 
-https://openstax.org/
+- [openstax](https://openstax.org/)
 
-https://open.umn.edu/opentextbooks/
+- [open.umn.edu](https://open.umn.edu/opentextbooks/)
 
-https://www.cccoer.org/learn/find-oer/open-textbooks/
+- [CCOER](https://www.cccoer.org/learn/find-oer/open-textbooks/)
 
-https://www.oercommons.org/curated-collections
+- [OER Commons](https://www.oercommons.org/curated-collections)
 
-http://www.collegeopentextbooks.org/
+- [collegeopentextbooks.org](http://www.collegeopentextbooks.org/)
 
-https://textbooks.opensuny.org/browse-oer/
+- [textbooks.opensuny.org](https://textbooks.opensuny.org/browse-oer/)
 
-http://globaltext.terry.uga.edu/books
+- [globaltext.terry.uga.edu](http://globaltext.terry.uga.edu/books)
 
-https://www.saylor.org/books/
+- [Saylor](https://www.saylor.org/books/)
 
 ### Resource Lists
 
-http://campusguides.lib.utah.edu/c.php?g=160393&p=1053364
+http://campusguides.lib.utah.edu/c.php?g=160393&p=1053364)
