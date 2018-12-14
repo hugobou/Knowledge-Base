@@ -23,6 +23,7 @@
 
 - ISL Section 8.1.2, page 311
 - ESL Section 9.2.2, page 326
+- [How to visualize decision trees](https://explained.ai/decision-tree-viz/index.html)
 
 ### Regression trees
 
