@@ -60,6 +60,7 @@
 - [The Elements of Statistical Learning](http://web.stanford.edu/~hastie/ElemStatLearn/) 
 - [An Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/) 
 - [Artificial Intelligence, Foundations of Computational Agents](https://artint.info/2e/html/ArtInt2e.html)
+- [The Hundred-Page Machine Learning Book](http://themlbook.com/wiki/doku.php)
 
 # Other info
 - [https://explained.ai/](explained.ai)
