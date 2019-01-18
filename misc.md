@@ -34,6 +34,9 @@
 ## Probability and Statistics
 - [Statistical Engineering](https://statistical-engineering.com/)
 
+## Signal Processing
+- [The Scientist & Engineer's Guide to Digital Signal Processing](https://www.analog.com/en/education/education-library/scientist_engineers_guide.html)
+
 ## Tech Talks
 - [Collection of algorithmically-ranked tech talks](https://techyaks.com/)
 
