@@ -63,6 +63,8 @@
 - [The Hundred-Page Machine Learning Book](http://themlbook.com/wiki/doku.php)
 
 # Other info
+- [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
+- [Long term data science learning roadmap](https://towardsdatascience.com/a-long-term-data-science-roadmap-which-wont-help-you-become-an-expert-in-only-several-months-4436733e63ff)
 - [https://explained.ai/](explained.ai)
 - https://web.cs.hacettepe.edu.tr/~ilyas/Courses/BIL712/
 
