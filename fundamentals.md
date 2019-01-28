@@ -12,7 +12,7 @@
 
 ## Software Engineering
 
-- [Software Engineering Body of Knowledge](http://www4.ncsu.edu/~tjmenzie/cs510/pdf/SWEBOKv3.pdf)
+- [Software Engineering Body of Knowledge](https://www.computer.org/web/swebok/v3)
 
 ## Code Quality
 
