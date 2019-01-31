@@ -27,9 +27,6 @@
 ## Writing Technical Papers
 - [How to write a technical paper](https://pdfs.semanticscholar.org/441f/ac7c2020e1c8f0d32adffca697bbb8a198a1.pdf)
 
-## Probability and Statistics
-- [Statistical Engineering](https://statistical-engineering.com/)
-
 ## Signal Processing
 - [The Scientist & Engineer's Guide to Digital Signal Processing](https://www.analog.com/en/education/education-library/scientist_engineers_guide.html)
 
