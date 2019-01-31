@@ -5,7 +5,7 @@
 
 # Calculus
 - [Calculus Made Easy](http://www.gutenberg.org/ebooks/33283)
-- [Convex Optimization](https://web.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf)
+- [Convex Optimization (Boyd, Vandenberghe)](https://web.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf)
 
 
 # Probability and Statistics
