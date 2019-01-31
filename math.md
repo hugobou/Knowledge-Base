@@ -5,3 +5,8 @@
 
 # Calculus
 - [Calculus Made Easy](http://www.gutenberg.org/ebooks/33283)
+
+
+## Probability and Statistics
+- [Statistical Engineering](https://statistical-engineering.com/)
+- [Statistics Done Wrong](https://www.statisticsdonewrong.com/)
