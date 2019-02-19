@@ -61,6 +61,7 @@
 - [An Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/) 
 - [Artificial Intelligence, Foundations of Computational Agents](https://artint.info/2e/html/ArtInt2e.html)
 - [The Hundred-Page Machine Learning Book](http://themlbook.com/wiki/doku.php)
+- [Algorithms of Reinforcement Learning](https://sites.ualberta.ca/~szepesva/RLBook.html)
 
 # Other info
 - [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
