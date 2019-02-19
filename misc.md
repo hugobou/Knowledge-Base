@@ -10,6 +10,7 @@
 
 ## Coding Practices
 - [Sean Parent - Better Code](http://sean-parent.stlab.cc/papers-and-presentations/)
+- [The Ultimate Guide to Logging](https://www.loggly.com/ultimate-guide/)
 
 ## Papers
 
