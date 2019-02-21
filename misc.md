@@ -31,6 +31,9 @@
 ## Signal Processing
 - [The Scientist & Engineer's Guide to Digital Signal Processing](https://www.analog.com/en/education/education-library/scientist_engineers_guide.html)
 
+## Search Engines
+- [Search Engines, Information Retrieval in Practice (Croft, Metzler, Strohman)](https://ciir.cs.umass.edu/irbook/)
+
 ## Tech Talks
 - [Collection of algorithmically-ranked tech talks](https://techyaks.com/)
 
