@@ -2,7 +2,7 @@
 
 ## Physics
 
-- [http://www.motionmountain.net](Motion Mountain)
+- [www.motionmountain.net](Motion Mountain)
 
 # Aggregations
 
