@@ -1,4 +1,3 @@
-
 # Probability and Statistics
 - [Statistical Engineering](https://statistical-engineering.com/)
 - [Statistics Done Wrong](https://www.statisticsdonewrong.com/)
