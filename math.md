@@ -9,6 +9,3 @@
 - [Convex Optimization (Boyd, Vandenberghe)](https://web.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf)
 
 
-# Probability and Statistics
-- [Statistical Engineering](https://statistical-engineering.com/)
-- [Statistics Done Wrong](https://www.statisticsdonewrong.com/)
