@@ -4,3 +4,4 @@
 
 # Data Science
 - [Tidy data](http://vita.had.co.nz/papers/tidy-data.pdf)
+- [Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook)
