@@ -32,6 +32,8 @@
 - [Kythe](http://kythe.io/)
 - [AddressSanitizer, ThreadSanitizer, MemorySanitizer](https://github.com/google/sanitizers)
 - [Cachegrind: a cache-miss profiler](http://wwwcdf.pd.infn.it/valgrind/cg_main.html)
+- [Online C++ shell](http://cpp.sh/)
+- [Godbolt compiler explorer](https://godbolt.org/)
 
 ## Articles / FAQ
 - [The Big Three](https://stackoverflow.com/questions/4172722/what-is-the-rule-of-three)
