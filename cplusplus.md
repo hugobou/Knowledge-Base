@@ -20,6 +20,10 @@
 - [The Definitive C++ Book Guide and List](https://stackoverflow.com/questions/388242/the-definitive-c-book-guide-and-list/)
 - [Technical Report on C++ Performance (2006)](http://www.open-std.org/jtc1/sc22/wg21/docs/18015.html)
 
+## Testing
+- [Googletest  documentation](https://github.com/google/googletest/tree/master/googletest/docs)
+- [gMock documentation](https://github.com/google/googletest/tree/master/googlemock/docs)
+
 ## Howto
 
 - [How to quickly profile an app with a debugger](https://stackoverflow.com/a/378024)
