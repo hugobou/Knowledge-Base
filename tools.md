@@ -5,7 +5,7 @@
 
 # Online Tools
 
-- [Regex tester and debugger](https://regex101.com/)
+- [Regex tester and debugger](https://regex101.com/) and [another one](https://regexr.com/)
 - [Regex visualizer](https://www.debuggex.com/)
 - [Base64 decoder](https://www.base64decode.org/)
 - [Compiler explorer](https://godbolt.org/)
